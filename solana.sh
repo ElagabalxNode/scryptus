@@ -1,10 +1,10 @@
 #!/bin/bash
 #set -x -e
 
-vote_acc="/home/solana/vote-account-keypair.json"
-key_acc="/home/solana/validator-keypair.json"
-author="/home/solana/authorized-withdrawer-keypair.json"
-wallet="14i1Raw3yrWJvph1a8C9uEMK2xNutY2mZAhQTCi4Ed4a"
+vote_acc=""
+key_acc=""
+author=""
+wallet=""
 
 while :
 do
